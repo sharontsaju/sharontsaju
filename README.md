@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sharontsaju](https://github.com/sharontsaju)
 
-- 💬 Ask me about **Python , C **
+- 💬 Ask me about Python ,C 
 
 - 📫 How to reach me **shxxrz97@gmail.com**
 
