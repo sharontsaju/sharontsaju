@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shxxrz97@gmail.com**
 
-- ⚡ Fun fact **I love coding and football**
+- ⚡ Fun fact **I love coding,exploring linux terminal and football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
